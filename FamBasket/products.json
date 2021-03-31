@@ -1,0 +1,149 @@
+[
+    {
+        "id":1,
+        "name": "Ideapad",
+        "price":"1000",
+        "image":"https://images.unsplash.com/photo-1527434009951-75a8f7558468?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8bGVub3ZvfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "purchased": "Ritika,Ramapriya"
+    },
+    {
+        "id":2,
+        "name":"Laptop",
+        "price":"2000",
+        "image":"https://images.unsplash.com/photo-1598985885697-7c1cf714ec14?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=334&q=80",
+        "purchased":"Raji"
+    },
+    {
+        "id":3,
+        "name":"Samsung Phone",
+        "price":"3000",
+        "image":"https://images.unsplash.com/photo-1611282104291-6bd45ca8bf93?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+        "purchased":"Roshni"
+    },
+    {
+        "id":4,
+        "name":"Bluetooth Headset",
+        "price":"3000",
+        "image":"https://images.unsplash.com/photo-1548378329-437e1ef34263?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1164&q=80",
+        "purchased":"None"
+    },
+    {
+        "id":4,
+        "name":"Dining Table",
+        "price":"3000",
+        "image":"https://images.unsplash.com/photo-1604578762246-41134e37f9cc?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=975&q=80",
+        "purchased":"Roshni,Mano"
+    },
+    {
+        "id":5,
+        "name":"Sofa Set",
+        "price":"3000",
+        "image":"https://images.unsplash.com/photo-1511401139252-f158d3209c17?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=975&q=80",
+        "purchased":"Raji,Ramapriya"
+    },
+    {
+        "id":6,
+        "name":"Coffee Maker",
+        "price":"3000",
+        "image":"https://images.unsplash.com/photo-1566757304323-32abb9c50868?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1234&q=80",
+        "purchased":"None"
+    },
+    {
+        "id":7,
+        "name":"Pillow",
+        "price":"3000",
+        "image":"https://images.unsplash.com/photo-1575277340599-43db25b63b6f?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1050&q=80",
+        "purchased":"Raji"
+    },
+    {
+        "id":8,
+        "name":"Study Table",
+        "price":"3000",
+        "image":"https://images.unsplash.com/photo-1581994574720-f60299904853?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=975&q=80",
+        "purchased":"Raji,Ramapriya,mano"
+    },
+    {
+        "id":9,
+        "name":"Lipbalm",
+        "price":"3000",
+        "image":"https://images.unsplash.com/photo-1532441807072-e075a14e3b69?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8bGlwYmFsbXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1100&q=60",
+        "purchased":"None"
+    },
+    {
+        "id":10,
+        "name":"Perfume",
+        "price":"3000",
+        "image":"https://images.unsplash.com/photo-1557170334-a9632e77c6e4?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1234&q=80",
+        "purchased":"Raji,mano,roshni"
+    },
+    {
+        "id":11,
+        "name":"kajal",
+        "price":"3000",
+        "image":"https://images.unsplash.com/photo-1512207724313-a4e675ec79ab?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1052&q=80",
+        "purchased":"Ritika,Ramapriya"
+    },
+    {
+        "id":12,
+        "name":"Choker",
+        "price":"3000",
+        "image":"https://images.unsplash.com/photo-1521744267-806fde527047?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hva2VyfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1100&q=60",
+        "purchased":"None"
+    },
+    {
+        "id":13,
+        "name":"Ring womens",
+        "price":"3000",
+        "image":"https://images.unsplash.com/photo-1512163143273-bde0e3cc7407?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1050&q=80",
+        "purchased":"Ramapriya"
+    },
+    {
+        "id":14,
+        "name":"Long Frock",
+        "price":"3000",
+        "image":"https://images.unsplash.com/photo-1548764704-46f748bcc571?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=334&q=80",
+        "purchased":"None"
+    },
+    {
+        "id":15,
+        "name":"Saree",
+        "price":"3000",
+        "image":"https://images.unsplash.com/photo-1610189337543-1c5d8e64f574?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+        "purchased":"None"
+    },
+    {
+        "id":16,
+        "name":"Nike",
+        "price":"3000",
+        "image":"https://images.unsplash.com/photo-1595461135849-bf08893fdc2c?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MzJ8fGNsb3RoaW5nfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "purchased":"Raji,Roshni"
+    },
+    {
+        "id":22,
+        "name":"Moon lamp",
+        "price":"3000",
+        "image":"https://images.unsplash.com/photo-1549216011-894fb68ef744?ixid=MXwxMjA3fDB8MHxzZWFyY2h8OHx8bW9vbiUyMGxhbXB8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1100&q=60",
+        "purchased":"Roshni"
+    },
+    {
+        "id":23,
+        "name":"self-help book",
+        "price":"3000",
+        "image":"https://images.unsplash.com/photo-1549122728-f519709caa9c?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=925&q=80",
+        "purchased":"Ramapriya"
+    },
+    {
+        "id":24,
+        "name":"thriller book",
+        "price":"3000",
+        "image":"https://images.unsplash.com/photo-1554357395-dbdc356ca5da?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1351&q=80",
+        "purchased":"None"
+    },
+    {
+        "id":25,
+        "name":"non fiction book",
+        "price":"3000",
+        "image":"https://images.unsplash.com/photo-1593340010859-83edd3d6d13f?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1355&q=80",
+        "purchased":"Ramapriya"
+    }
+]

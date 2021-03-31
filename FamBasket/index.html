@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FamBasket</title>
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <script src="https://kit.fontawesome.com/96e3e0e026.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <header>
+    <h2><a href="#">FamBasket</a></h2>
+    <nav>
+      <a href="#about">About</a>
+      <a href="products.html">Product</a>
+      <a href="#contact">Contact</a>
+      <a href="/login/login.html" id="menu-login">Login</a>
+      <a href="/profilePage/profilePage.html" id="profile"><i class="far fa-user fa-2x"></i></a>
+      <a href="#" id="cart"><i class="fas fa-shopping-cart fa-2x"></i></a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <div class="background-image" style="background-image: url(assets/img/main1.jpg);"></div>
+    <div class="hero-content-area">
+      <h1>Online Shopping</h1>
+      <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h3>
+      <a href="#catogeries" class="btn">Explore Now</a>
+    </div>
+  </section>
+
+  <section id="catogeries">
+      <h3 class="title">Collections</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam id felis et ipsum bibendum ultrices. Morbi vitae pulvinar velit. Sed aliquam dictum sapien, id sagittis augue malesuada eu.</p>
+      <hr>
+      <ul class="grid">
+        <li class="small" id="male" style="background-image: url(assets/img/men2.jpg);">
+        </li>
+        <li class="large" id="female" style="background-image: url(assets/img/female.jpg);">
+        </li>
+        <li class="large" id="accessories" style="background-image: url(assets/img/glasses.jpg)">
+        </li>
+        <li class="small" id="kid" style="background-image: url(assets/img/kids.jpg)">
+        </li>
+      </ul>
+
+
+  </section>
+
+  <section id="about">
+    <h3 class="title">About Us</h3>
+    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+    <hr>
+
+    <ul class="grid">
+      <li>
+        <i class="fa fa-compass fa-4x"></i>
+        <h4>Services</h4>
+        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+      </li>
+      <li>
+        <i class="fa fa-camera-retro fa-4x"></i>
+        <h4>Our Retail Partners</h4>
+        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+      </li>
+      <li>
+        <i class="fa fa-bicycle fa-4x"></i>
+        <h4>Delivery</h4>
+        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+      </li>
+      <li>
+        <i class="fa fa-flag-checkered fa-4x"></i>
+        <h4>Our Team</h4>
+        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+      </li>
+    </ul>
+  </section>
+
+  <section class="testimonials">
+    <h3 class="title">Testimonials from our Customers:</h3>
+    <hr>
+    <p class="quote">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac mauris sit amet nunc rhoncus mattis. Nulla sit amet nisl vel nulla fringilla euismod.</p>
+    <p class="author">- Colt Steele</p>
+    <p class="quote">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac mauris sit amet nunc rhoncus mattis. Nulla sit amet nisl vel nulla fringilla euismod.</p>
+    <p class="author">- Elie Schoppik</p>
+    <p class="quote">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac mauris sit amet nunc rhoncus mattis. Nulla sit amet nisl vel nulla fringilla euismod.</p>
+    <p class="author">- Tim Garcia</p>
+  </section>
+
+  <section id="contact">
+    <h3 class="title">Learn more</h3>
+    <p>Want to know about our upcoming fashion-related updates, or come to one of our mixers? Just sign up for our mailing list. No spam from us, we promise! Except for the spam we give you to keep up your energy while you're shopping through our site. We have tons of that.</p>
+    <hr>
+    <form>
+      <input type="email" placeholder="Email">
+      <a href="#" class="btn">Subscribe now</a>
+    </form>
+  </section>
+
+
+  <footer>
+    <p>Images courtesy of <a href="http://unsplash.com/">unsplash</a>.</p>
+    <p>Why are you even reading this?! There's never anything interesting in the footer!</p>
+    <ul>
+      <li><a href="#"><i class="fa fa-twitter-square fa-2x"></i></a></li>
+      <li><a href="#"><i class="fa fa-facebook-square fa-2x"></i></a></li>
+      <li><a href="#"><i class="fa fa-snapchat-square fa-2x"></i></a></li>
+    </ul>
+  </footer>
+
+  <script type="text/javascript" src="/login/login.js"></script>
+  <script>
+    setTimeout(function() {
+      document.getElementById("menu-login").innerHTML = "Log Out";
+    },3000)
+  </script>
+</body>
+</html>
